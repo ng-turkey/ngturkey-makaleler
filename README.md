@@ -25,6 +25,5 @@
 
 |Source                   |URL                                      |
 |----------------|-------------------------------|-----------------------------|
-|Angular Docs |`[https://angular.io/docs](https://angular.io/docs)`                       
-|Learn Rxjs        |`[https://www.learnrxjs.io/](https://www.learnrxjs.io/)`           |
-
+|Angular Docs |`[https://angular.io/docs](https://angular.io/docs)` 
+|Angular Docs |`[https://angular.io/docs](https://angular.io/docs)`
