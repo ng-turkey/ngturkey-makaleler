@@ -1,6 +1,6 @@
 # Welcome to NGTurkey Makaleler!
 
-**NGTurkey** üyeleri tarafından hazırlanıp, yayınlanmış makalelerin tamamının yer aldığı ayrıca angular hakkında faydalı içeriklerin listelendiği Markdown harikası bir repodur.
+**NGTurkey** üyeleri tarafından hazırlanıp, yayınlanmış makalelerin tamamının yer aldığı ayrıca angular hakkında faydalı içeriklerin listelendiği bir repo.
 
 # İçerikler
 
