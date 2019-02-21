@@ -21,9 +21,4 @@
 
 ## Faydalı Linkler
 
-
-
-|Source                   |URL                                      |
-|----------------|-------------------------------|-----------------------------|
-|Angular Docs | [https://angular.io/docs](https://angular.io/docs)
-|Angular Docs | [https://angular.io/docs](https://angular.io/docs) 
+[Angular Docs](https://angular.io/docs)
