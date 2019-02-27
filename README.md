@@ -1,4 +1,4 @@
-# Welcome to NGTurkey Makaleler!
+# Welcome to NGTurkey Articles!
 
 **NGTurkey** üyeleri tarafından hazırlanıp, yayınlanmış makalelerin tamamının yer aldığı ayrıca angular hakkında faydalı içeriklerin listelendiği bir repo.
 
