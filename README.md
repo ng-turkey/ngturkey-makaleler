@@ -19,12 +19,9 @@
 
 ## Angular Kaynaklar
 
-
 ## Rxjs
 
-
 ## TypeScript
-
 
 ## Faydalı Linkler
 
