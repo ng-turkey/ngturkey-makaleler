@@ -16,6 +16,7 @@
 9.  [Atomic Design Prensipleriyle Angular Uygulama Geliştirme (MeetUp 30/03)](https://medium.com/@mehmetakifalp/atomic-design-prensipleriyle-angular-uygulama-geli%C5%9Ftirme-782bb295d4c0)
 10. [Angular Lazy Loading](https://medium.com/@abdulnasirolcan/angular-lazy-loading-467d84b9821d)
 11. [Angular Context: Easy Data-Binding for Nested Component Trees and the Router Outlet](https://medium.com/@ozak/angular-context-easy-data-binding-for-nested-component-trees-and-the-router-outlet-a977efacd48)
+12. [Angular TrackByFunction: The Good, the Obvious, and the Not-So-Obvious](https://medium.com/@mehmetgozbulut/angular-trackbyfunction-the-good-the-obvious-and-the-not-so-obvious-68848af0e50e)
 
 ## Angular Kaynaklar
 
