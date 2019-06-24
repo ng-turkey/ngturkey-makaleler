@@ -17,6 +17,8 @@
 10.  [Angular Lazy Loading](https://medium.com/@abdulnasirolcan/angular-lazy-loading-467d84b9821d)
 11.  [Angular TrackByFunction: The Good, the Obvious, and the Not-So-Obvious](https://medium.com/@mehmetgozbulut/angular-trackbyfunction-the-good-the-obvious-and-the-not-so-obvious-68848af0e50e)
 12.  [Using Renderer2 in Angular](https://link.medium.com/T8x771EItW)
+13.  [5 Dakikada Angular - Angular Modülleri](https://www.youtube.com/watch?v=ZVyKnEXSpdI)
+14.  [5 Dakikada Angular - RxJS: Observable ve Subject](https://www.youtube.com/watch?v=fKXE4o6NVyw&feature=youtu.be)
 
 ## Angular Kaynaklar
 
