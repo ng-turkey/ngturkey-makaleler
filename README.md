@@ -20,6 +20,7 @@
 13.  [5 Dakikada Angular - Angular Modülleri](https://www.youtube.com/watch?v=ZVyKnEXSpdI)
 14.  [5 Dakikada Angular - RxJS: Observable ve Subject](https://www.youtube.com/watch?v=fKXE4o6NVyw&feature=youtu.be)
 15.  [5 Dakikada Angular - Service](https://www.youtube.com/watch?v=jy_qF3lBfVc)
+16.  [5 Dakikada Angular - Directive](https://www.youtube.com/watch?v=IEXvcrm0QKY)
 
 ## Angular Kaynaklar
 
