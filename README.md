@@ -22,6 +22,7 @@
 15. [5 Dakikada Angular - Service](https://www.youtube.com/watch?v=jy_qF3lBfVc)
 16. [5 Dakikada Angular - Directive](https://www.youtube.com/watch?v=IEXvcrm0QKY)
 17. [Angular ile SEO](https://medium.com/@tahaselimaksakal/angular-ile-seo-8a085bf62b61)
+18. [Building A Real-World Library Structure with Angular Part I](https://medium.com/@mehmeterim/building-a-real-world-library-structure-with-angular-part-i-209fef041a64)
 
 ## Angular Kaynaklar
 
